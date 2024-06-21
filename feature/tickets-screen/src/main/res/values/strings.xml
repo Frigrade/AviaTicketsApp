@@ -1,0 +1,7 @@
+<resources>
+    <string name="btn_filter">Фильтр</string>
+    <string name="btn_schedule">График цен</string>
+    <string name="server_error">Не удалось подключиться к серверу</string>
+    <string name="price_placeholder">%1$s ₽</string>
+    <string name="flight_time">%1$sч в пути / Без пересадок</string>
+</resources>

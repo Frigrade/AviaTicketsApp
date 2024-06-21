@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nav_home_label">Авиабилеты</string>
+    <string name="nav_hotel_label">Отели</string>
+    <string name="nav_location_label">Короче</string>
+    <string name="nav_subscriptions_label">Подписки</string>
+    <string name="nav_profile_label">Профиль</string>
+</resources>

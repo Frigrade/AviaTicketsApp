@@ -1,0 +1,37 @@
+<resources>
+    <string name="tv_label">Поиск дешевых авиабилетов</string>
+    <string name="btn_places">Показать все места</string>
+    <string name="tv_label_of_rv">Музыкально отлететь</string>
+
+    <string name="icon_route_description">Сложный маршрут</string>
+    <string name="icon_ball_description">Куда угодно</string>
+    <string name="icon_calendar_description">Выходные</string>
+    <string name="icon_fire_description">Горячие билеты</string>
+
+    <string name="city_sochi">Сочи</string>
+    <string name="city_istanbul">Стамбул</string>
+    <string name="city_phuket">Пхукет</string>
+    <string name="popular_directions">Популярное направление</string>
+
+    <string name="city_direction_hint">Куда - Турция</string>
+    <string name="city_direction_hint_moscow">Откуда - Москва</string>
+
+    <string name="btn_back">обратно</string>
+    <string name="btn_date">24 фев, сб</string>
+    <string name="btn_ticket_type">1, эконом</string>
+    <string name="btn_filter">фильтр</string>
+    <string name="direct_fight">Прямые рельсы</string>
+    <string name="show_all">Показать все</string>
+
+    <string name="flight_cost">2 390 ₽</string>
+    <string name="ural_avia_line">Уральские авиалинии</string>
+    <string name="victory">Победа</string>
+    <string name="nord_star">NordStar</string>
+    <string name="show_all_tickets">Показать все билеты</string>
+    
+    <string name="server_error">Не удалось подключиться к серверу</string>
+    <string name="price_placeholder">от %1$s ₽</string>
+    <string name="price_placeholder_two">%1$s ₽</string>
+    <string name="calendar_date">%1$d %2$s, %3$s</string>
+
+</resources>

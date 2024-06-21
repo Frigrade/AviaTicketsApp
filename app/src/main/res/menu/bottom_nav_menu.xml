@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:title="@string/nav_home_label"
+        android:icon="@drawable/ic_air"
+        android:orderInCategory="0" />
+
+    <item
+        android:id="@+id/nav_hotel"
+        android:title="@string/nav_hotel_label"
+        android:icon="@drawable/ic_hotel"
+        android:orderInCategory="1" />
+
+    <item
+        android:id="@+id/nav_location"
+        android:title="@string/nav_location_label"
+        android:icon="@drawable/ic_location"
+        android:orderInCategory="2" />
+
+    <item
+        android:id="@+id/nav_subscriptions"
+        android:title="@string/nav_subscriptions_label"
+        android:icon="@drawable/ic_bell"
+        android:orderInCategory="3" />
+
+    <item
+        android:id="@+id/nav_profile"
+        android:title="@string/nav_profile_label"
+        android:icon="@drawable/ic_person"
+        android:orderInCategory="4" />
+
+</menu>
